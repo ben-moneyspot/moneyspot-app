@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "947244291958",
+    "project_id": "moneyspot-app",
+    "storage_bucket": "moneyspot-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947244291958:android:c485a5b82d0e4200e80c57",
+        "android_client_info": {
+          "package_name": "com.moneyspot.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947244291958-vrrhev1o3vqmi00mcsum65qknpcnf99g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2xvVF33h8X_yOjJjcYbbv6dcrsd40gsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947244291958-vrrhev1o3vqmi00mcsum65qknpcnf99g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947244291958-ta9uvdlgk11ib9h0ra39vskvgfh4evre.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.moneyspot-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
